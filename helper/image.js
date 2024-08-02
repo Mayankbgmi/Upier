@@ -1,5 +1,5 @@
 const DYNAMIC_IMAGE_HOST = "https://my-og-image-thanks-to-vercel.vercel.app"; //no slash
-const LOGO_URL = "https://upier.t-ps.net/images/upier.svg";
+const LOGO_URL = "https://telegra.ph/file/7687f4eb79b81db106765.jpg";
 
 export default function metadataImage(text, fontsize) {
     if (!fontsize) fontsize = 50;
