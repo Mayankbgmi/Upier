@@ -6,11 +6,11 @@ const defaultData = {
   description: "Shareable Payment's Link for UPI",
   keywords:
     "UPI, Shareable UPI Link, Upi Shareable Link , Share UPI Payment's Link, Free Shareable UPI Link, UPI Payment",
-  copyright: "Upier",
+  copyright: "Warrior Units",
   topic: "Payment",
-  sitename: "Upier",
-  email: "me@thetuhin.com",
-  url: "https://upier.t-ps.net/",
+  sitename: "Warrior Units",
+  email: "help@warriorunits.in",
+  url: "https://warriorunits.in/",
   ogImage: image("Create a shareable deeplink for UPI Payment", 50),
 };
 
