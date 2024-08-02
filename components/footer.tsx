@@ -20,9 +20,9 @@ const Footer: NextPage = () => {
         </Link>
       </p>
       <p className="tuhin">
-        An Open Source Project by{" "}
+        This Project Made by {" "}
         <a
-          href="http://thetuhin.com/?ref=upier"
+          href="http://telegram.me/warriorunitsbots"
           target="_blank"
           rel="noreferrer"
         >
